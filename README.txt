@@ -23,4 +23,4 @@ OpenWeather API から天気データを取得し、Tweepyを使って自動投�
 - Twitter API の制限により、**無料プランでは自動投稿が制限される場合があります**。
 
 ---
-**© 2025 誠 / HomuLabo**
+**© 2025 どやせ / HomuLabo**
